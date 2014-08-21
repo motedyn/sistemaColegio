@@ -1,4 +1,4 @@
-sistemaColegio
+Sistema Colegio El Redentor
 ==============
 
 Sistema informático  de gestion y administracion de estudiantes del colegio El Redentor,
