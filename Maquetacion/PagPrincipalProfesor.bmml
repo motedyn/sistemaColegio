@@ -1,0 +1,52 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="908" measuredH="610" mockupW="700" mockupH="500">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="208" y="110" w="700" h="500" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%0Ahttp%3A//elredentor/PagPrincipalProfesor</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="216" y="183" w="685" h="58" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14540253</color>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::IconLabel" x="809" y="193" w="-1" h="-1" measuredW="84" measuredH="39" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>CircledXIcon%7Csmall</icon>
+        <labelPosition>bottom</labelPosition>
+        <text>Cerrar%20Sesi%F3n</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="242" y="193" w="127" h="-1" measuredW="103" measuredH="28" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Bienvenido%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="257" y="215" w="-1" h="-1" measuredW="60" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%28motedyn%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::MultilineButton" x="390" y="307" w="164" h="89" measuredW="100" measuredH="66" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Mis%20Datos</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::MultilineButton" x="588" y="307" w="164" h="89" measuredW="161" measuredH="66" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Notas%20de%20Alumnos</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::MultilineButton" x="390" y="417" w="164" h="89" measuredW="107" measuredH="66" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Mis%20cursos</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::MultilineButton" x="588" y="417" w="164" h="89" measuredW="80" measuredH="66" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Grados</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
