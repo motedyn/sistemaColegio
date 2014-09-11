@@ -9,41 +9,51 @@
         <verticalScrollbar>false</verticalScrollbar>
       </controlProperties>
     </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextInput" x="429" y="259" w="111" h="-1" measuredW="58" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextInput" x="476" y="210" w="111" h="-1" measuredW="58" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <color>16770457</color>
         <text>usuario</text>
       </controlProperties>
     </control>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::TextInput" x="429" y="294" w="111" h="-1" measuredW="81" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::TextInput" x="476" y="245" w="111" h="-1" measuredW="81" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <color>16770457</color>
         <text>contrase%F1a</text>
       </controlProperties>
     </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::IconLabel" x="376" y="167" w="-1" h="-1" measuredW="186" measuredH="63" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::IconLabel" x="176" y="446" w="196" h="-1" measuredW="186" measuredH="39" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
-        <icon>ContactsIcon%7Clarge</icon>
+        <icon>ContactsIcon%7Csmall</icon>
         <text>Colegio%20Evangelido%20El%20Redentor</text>
       </controlProperties>
     </control>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="302" y="262" w="-1" h="-1" measuredW="114" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="359" y="213" w="-1" h="-1" measuredW="114" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Nombre%20de%20usuario%3A</text>
       </controlProperties>
     </control>
-    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="302" y="297" w="-1" h="-1" measuredW="72" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="380" y="248" w="-1" h="-1" measuredW="72" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Contrase%F1a%3A</text>
       </controlProperties>
     </control>
-    <control controlID="10" controlTypeID="com.balsamiq.mockups::PointyButton" x="429" y="348" w="-1" h="-1" measuredW="112" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::PointyButton" x="423" y="307" w="-1" h="-1" measuredW="112" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>
         <color>13576743</color>
         <direction>right</direction>
         <newLayout>true</newLayout>
         <text>Iniciar%20Sesi%F3n</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::MultilineButton" x="345" y="185" w="268" h="174" measuredW="139" measuredH="66" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::MultilineButton" x="169" y="440" w="600" h="57" measuredW="28" measuredH="66" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
       </controlProperties>
     </control>
   </controls>
