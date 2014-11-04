@@ -1,0 +1,26 @@
+.navbar {
+	border-radius: 0px;
+  	background-color: rgba(255,255,255,0.8);
+}
+.navbar-nav {
+    float: right;
+ }
+ #inscribody{
+ 	background-color: #3498db;
+ }
+ .form-control{
+ 	display: table-column;
+ }
+ .panel{
+ 	background-color: rgba(255,255,255,0.9);
+ }
+ h4{
+ 	text-align: center;
+ 	color: gray;
+ }
+ .btn-success{
+ 	float: right;
+ }
+ .btn-danger{
+ 	float: left;
+ }

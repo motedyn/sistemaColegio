@@ -1,0 +1,37 @@
+.navbar {
+	border-radius: 0px;
+  	background-color: rgba(255,255,255,0.8);
+}
+.navbar-nav {
+    float: right;
+ }
+#indexbody{
+background-color: #27ae60;
+background-size:100% 180%;
+}
+
+.thumbnail {
+ background-color: rgba(250,250,250,0.4);
+ border-radius: 7px;
+ padding-top: 10%;
+    }
+.modal-dialog{
+	padding-top: 5%;
+	width: 35%;
+	color: white;
+	margin-left: 33%;
+	border-radius: 8px;
+	}
+.modal-body{
+	margin-left: 20%;
+	margin-right: 20%;
+}
+.modal-content{
+		background-color: rgba(0,0,0,0.94);
+}
+.btn-info {
+	float: right;
+}
+.btn-danger{
+	float: left;
+}

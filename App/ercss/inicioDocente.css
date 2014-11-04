@@ -1,0 +1,47 @@
+#docentebody{
+    background-color: #34495e;
+}
+.navbar {
+    border-radius: 0px;
+    background-color: rgba(255,255,255,0.8);
+}
+.navbar-nav {
+    float: right;
+ }
+
+a{
+	font-weight: bold;
+}
+
+.thumbnail {
+    width: 85%;
+    background-color: rgba(255,255,255,0.5);
+    padding-top: 7%;
+}
+
+/****************MODAL***************/
+
+
+.modal-dialog {
+    margin: 12% auto;
+}
+h4{
+	text-align: center;
+}
+h5{
+	text-align: center;
+	font-weight: bold;
+}
+td{
+	font-weight: lighter;
+	font-family: verdana;
+}
+.modal-body {
+    width: 90%;
+    margin-left: 5%;
+}
+
+.btn-danger{
+position: static; 
+margin-right: 20%;
+}

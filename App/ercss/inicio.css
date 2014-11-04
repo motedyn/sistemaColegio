@@ -1,0 +1,39 @@
+#body2{
+background-color: rgba(52, 152, 219,1.0);
+background-size:100% 180%;
+}
+
+
+h3{/*titutlo sesion*/
+	color: white;
+	padding-bottom: 18px;
+}
+
+.checkbox{
+	color: gray;
+	font-size: 11pt;
+	padding: 0% 2% 0% 10%;
+
+}
+
+
+.form-signin{
+  background-color: rgba(250,250,250,0.8);
+  padding: 4% 15% 4% 15%;
+  border-radius: 0px 0px 20px 20px;
+
+}
+#bienvenido{
+  background-color: rgba(0,0,0,0.9);
+  padding: 5% 2% 4% 2%;
+  border-radius: 20px 20px 0px 0px;
+  color: white;
+  font-family: arial;
+  font-size: 15pt;
+}
+.navbar {
+  background-color: rgba(255,255,255,0.8);
+}
+.navbar-nav {
+    float: right;
+ }
