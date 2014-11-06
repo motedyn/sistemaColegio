@@ -52,7 +52,7 @@
 			</div>
 			<div class="col-md-4">
 			    <div class="thumbnail">
-			    	<a data-toggle="modal" href="#grados">
+			    	<a  href="registrocuenta.php">
 			      		<img src="icon/profesor.png" width="100px;"></a>
 			      			<center><h3>Inscribir Profesor</h3></center>
 			    </div>

@@ -24,7 +24,7 @@
             </div>
             <div class="col-md-3">
                 <div class="thumbnail">
-                    <a data-toggle="modal" href='#sesion'>
+                    <a data-toggle="modal" href='#sesiondoc'>
                         <img src="icon/docente.png" width="100px;"></a>
                             <center><h3>Docente</h3></center>
                 </div>
@@ -73,7 +73,7 @@
                 <h4 align="center">Inicie sesión</h4>
             </div>
             <div class="modal-body"> 
-                <form class="form-register" action="acceder.php" method="post" role="form" autocomplete="off">  
+                <form class="form-register" action="sesion.php" method="post" role="form" autocomplete="off">  
                     <h4>
                         <label>Usuario:</label>
                         <input name="usuario"class="form-control"  type="text" autofocus="" required=""  placeholder="Ingrese su usuario"><br>
@@ -81,7 +81,31 @@
                         <input name="pass" class="form-control" type="password" autofocus="" required="" placeholder="Ingrese su contraseña">
                     </h4>
                     <div class="modal-footer">
-                        <button type="submit" class="btn btn-danger" href="" > Ingresar </button>
+                        <button type="submit" class="btn btn-danger"> Ingresar </button>
+                        <button type="submit" class="btn btn-info" data-dismiss="modal"> Cancelar </button>
+                    </div>
+                </form>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+</div>
+<div class="modal fade in" role="dialog"id="sesiondoc">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 align="center">Inicie sesión</h4>
+            </div>
+            <div class="modal-body"> 
+                <form class="form-register" action="sesiondoc.php" method="post" role="form" autocomplete="off">  
+                    <h4>
+                        <label>Usuario:</label>
+                        <input name="usuario"class="form-control"  type="text" autofocus="" required=""  placeholder="Ingrese su usuario"><br>
+                        <label>Contraseña:</label>
+                        <input name="pass" class="form-control" type="password" autofocus="" required="" placeholder="Ingrese su contraseña">
+                    </h4>
+                    <div class="modal-footer">
+                        <button type="submit" class="btn btn-danger"> Ingresar </button>
                         <button type="submit" class="btn btn-info" data-dismiss="modal"> Cancelar </button>
                     </div>
                 </form>
