@@ -1,5 +1,7 @@
-Sistema Colegio El Redentor
+﻿Sistema Colegio El Redentor
 ==============
+
+http://elredentor.uni.me/
 
 Sistema informático  de gestion y administracion de estudiantes del colegio El Redentor,
 que permite registrar  inscripciones de alumnos, ingreso de notas, 
